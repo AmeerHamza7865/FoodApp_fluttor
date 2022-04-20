@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996106811291",
+    "project_id": "fluttorfirebase",
+    "storage_bucket": "fluttorfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996106811291:android:983e079e633793c89dd33e",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996106811291-6t97nbnprnj8croq6j0u40nf7p5c5bf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNd6IDbSdL4wbSSwrIdhTTp6C5nLl8Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996106811291-6t97nbnprnj8croq6j0u40nf7p5c5bf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
